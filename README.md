@@ -38,6 +38,22 @@ I created this personal README to help you get to know me and how I work. This d
 
 - I'm currently focused on the construction network project at Procore. Mainly standing up the first version of the web app and consumer facing pages. 
 
+## How you can help me
+* Do thoughtful, good work. Tell me if there's something preventing you from this, and we'll work together on fixing it.
+* Default to action. Instead of waiting, move problems forward.
+* Communicate. If there's a problem or you're blocked on something, please bring it up. I'll generally interpret silence as "everything's fine".
+  * Don’t save urgent matters for a 1x1. Please bring them to my attention on Slack or by scheduling a separate call.
+* Transparency is very important to me. Please default to using public channels.
+* I like explicit asks. I’m better at helping when I have a good idea of what you need. “Take a look” is less helpful than “I’m looking for feedback on X and Y, by end of week”.
+* Bring your whole self to work.
+
+## What I assume about you
+* Positive intent.
+* You’re the DRI. You’re better at your job than I am! You know best, and you’ll tell me if there’s something preventing you from doing your best work possible.
+* If I disagree with you, I may try to steer you down a different path. But me disagreeing with you doesn’t mean that you’re doing something wrong as long as you’re collaborating effectively with me and our teammates.
+* You’ll ask for my input and help if it’s needed.
+* Work is absolutely not the most important thing in your life. I assume that there are cherished relationships and personal interests that are more important to your happiness, and it’s hard to be happy with your job when work detracts from those things.
+
 ## How to reach me
 
 - Slack - Direct message or mention is probably the best way to reach me during the day (my handle is @tim.hey). I will always have Slack open during business hours but I have notifications disabled on many of the channels so it may take some time before I respond. If you have an urgent message or need me to repond quickly the best approach is a direct message with a link or summary of the issue you need me to contribute to.
