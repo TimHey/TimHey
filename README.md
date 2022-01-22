@@ -36,7 +36,7 @@ I created this personal README to help you get to know me and how I work. This d
 
 ## What’s keeping me busy
 
-- I'm currently focused on the construction network project at Procore. Mainly standing up the first version of the web app and consumer facing pages. 
+- I'm currently focused on the [Procore Construction Network](https://www.procore.com/network/). Mainly standing up the first version of the web app and consumer facing pages. 
 
 ## How you can help me
 * Do thoughtful, good work. Tell me if there's something preventing you from this, and we'll work together on fixing it.
