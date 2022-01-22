@@ -4,7 +4,7 @@ I created this personal README to help you get to know me and how I work. This d
 
 ## About me
 
-- My name is Tim Hey -- Currently, I am a Principal Product Manager on the Growth team at [Procore](procore.com). I'm focused on connecting everyone in the construction industry on one platform.
+- My name is Tim Hey -- Currently, I am a Group Product Manager on the Growth team at [Procore](procore.com). I'm focused on connecting everyone in the construction industry on one platform.
 - I currently live in [Hilton Head, SC](https://www.google.com/maps/d/viewer?ie=UTF8&hl=en&msa=0&t=h&z=12&vpsrc=0&mid=1Qtqlbz0hl78M8NRbzRCdgw_NnP0&ll=32.16264174527876%2C-80.74548800000001) 🇺🇸 with my wife Elizabeth, our 2 sons and our 2 dogs. I was raised in New Hampshire and that's where the majority of my family lives. I'm up there quite a bit in the summer months. 
 - I’m an [introverted extrovert](https://en.wikipedia.org/wiki/Extraversion_and_introversion) which for me means that I enjoy spending time with others but I recharge in solitude. You will know which mode I’m in within seconds of interacting with me.
 - I studied business management and sustainable product design and development at Keene State College in New Hampshire and it just so happens that is exactly what I’ve built a career around.
