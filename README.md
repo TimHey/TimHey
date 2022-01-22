@@ -36,7 +36,7 @@ I created this personal README to help you get to know me and how I work. This d
 
 ## What’s keeping me busy
 
-- I'm currently focused on the [Procore Construction Network](https://www.procore.com/network/). Mainly standing up the first version of the web app and consumer facing pages. 
+- I'm currently focused on the [Procore Construction Network](https://www.procore.com/network/). Mainly standing up the first version of the web app and consumer facing pages, the user experience for users with free accounts and connecting everyone in the construction industry on one single platform. 
 
 ## My role as Group Product Manager
 If you’re on my team, I’m here to support you, provide focus and clarity on our most important problems, and to advocate for you and the things you ship. I serve you, and we should optimize the things we do together for the organization.
