@@ -39,7 +39,15 @@ I created this personal README to help you get to know me and how I work. This d
 - I'm currently focused on the [Procore Construction Network](https://www.procore.com/network/). Mainly standing up the first version of the web app and consumer facing pages. 
 
 ## My role as Group Product Manager
-* 
+If you’re on my team, I’m here to support you, provide focus and clarity on our most important problems, and to advocate for you and the things you ship. I serve you, and we should optimize the things we do together for the organization.
+First and foremost, I’m here to help you shine by enabling your success in your current role. I hope to do this in a few ways:
+
+* Provide you with context. I do a lot of communicating with people you might not be otherwise exposed to, and I hope to shield you from things that aren’t as important and provide you with clarity on the things that are.
+* Pair with you on problems. You’ll know your area of the product better than I do, but I’ll be close enough to have some informed thoughts of my own.
+Help you directly whenever you need it. I love hearing “I could really use help with...”. The best approach we can take together is preventing stress and anxiety from happening at all at work, but if I will always pick up a hose and firefight with you if needed and you provide that space for me.
+* I also want to be an avid supporter of your career path. Your career belongs to you, and I want to cheerlead and support you on your path - whether it’s continuing deeper into product management, people management, or not:
+* Evangelize your success and watch you shine. I’ll do my best to celebrate your wins.
+* Expose you to opportunities that allow you to grow and learn and encourage you to seize them. I don’t want you to be bored!
 
 ## How you can help me
 * Do thoughtful, good work. Tell me if there's something preventing you from this, and we'll work together on fixing it.
