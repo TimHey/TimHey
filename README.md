@@ -4,7 +4,7 @@ I created this personal README to help you get to know me and how I work. This d
 
 ## About me
 
-- My name is Tim Hey -- Currently, I am a Group Product Manager on the Growth team at [Procore](procore.com). I'm focused on connecting everyone in the construction industry on one platform.
+- My name is [Tim Hey](https://www.linkedin.com/in/timothyhey/) -- Currently, I am a Group Product Manager on the Growth team at [Procore](procore.com). I'm focused on connecting everyone in the construction industry on one platform.
 - I currently live in [Hilton Head, SC](https://www.google.com/maps/d/viewer?ie=UTF8&hl=en&msa=0&t=h&z=12&vpsrc=0&mid=1Qtqlbz0hl78M8NRbzRCdgw_NnP0&ll=32.16264174527876%2C-80.74548800000001) 🇺🇸 with my wife Elizabeth, our 2 sons and our 2 dogs. I was raised in New Hampshire and that's where the majority of my family lives. I'm up there quite a bit in the summer months. 
 - I’m an [introverted extrovert](https://en.wikipedia.org/wiki/Extraversion_and_introversion) which for me means that I enjoy spending time with others but I recharge in solitude. You will know which mode I’m in within seconds of interacting with me.
 - I studied business management and sustainable product design and development at Keene State College in New Hampshire and it just so happens that is exactly what I’ve built a career around.
@@ -37,6 +37,7 @@ I created this personal README to help you get to know me and how I work. This d
 ## What’s keeping me busy
 
 - I'm currently focused on the [Procore Construction Network](https://www.procore.com/network/). Mainly standing up the first version of the web app and consumer facing pages, the user experience for users with free accounts and connecting everyone in the construction industry on one single platform. 
+- I also like to play around with writng from time to time and run [The Hilton Head Hustle](https://hiltonheadhustle.com) for fun. 
 
 ## My role as Group Product Manager
 If you’re on my team, I’m here to support you, provide focus and clarity on our most important problems, and to advocate for you and the things you ship. I serve you, and we should optimize the things we do together for the organization.
@@ -68,8 +69,8 @@ Help you directly whenever you need it. I love hearing “I could really use hel
 ## How to reach me
 
 - Slack - Direct message or mention is probably the best way to reach me during the day (my handle is @tim.hey). I will always have Slack open during business hours but I have notifications disabled on many of the channels so it may take some time before I respond. If you have an urgent message or need me to repond quickly the best approach is a direct message with a link or summary of the issue you need me to contribute to.
-- <b>[E-mail](mailto:tim.hey@procore.com)</b> - I read my emails three times a day and work through them like a task list. If you have an urgent email please use [URGENT]: in your subject line so I see it. Please do not feel obligated to read or respond to any of the emails you receive from me outside of your normal hours.
-- Meetings - You can schedule a 30 min "get to know ya" or "coffee chat" with you anytime - I really enjoy getting to know people and love helping as much as I can. 
+- <b>[E-mail](mailto:timothy.m.hey.com)</b> - I read my emails three times a day and work through them like a task list. If you have an urgent email please use [URGENT]: in your subject line so I see it. Please do not feel obligated to read or respond to any of the emails you receive from me outside of your normal hours.
+- Meetings - You can schedule a 30 min "get to know ya" or "coffee chat" with you anytime - I really enjoy getting to know people and love helping as much as I can.
 
 <!---
 TimHey/TimHey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
