@@ -10,7 +10,6 @@ I created this personal README to help you get to know me and how I work. This d
 - I studied business management and sustainable product design and development at Keene State College in New Hampshire and it just so happens that is exactly what I’ve built a career around.
 - I ride bikes 🚴‍♂️ and recently fell in love with gravel. If I’m feeling fit I will compete in local crits, gravel or cyclo-cross races. When I do compete I race for team [Mad Alchemy](https://www.madalchemy.com/). Feel free to follow me on [Strava](https://www.strava.com/athletes/2610245).
 - I’m a podcast junkie, some of my favorites are [a16z](https://a16z.com/podcasts/), [My First Million](https://thehustle.co/my-first-million-podcast/), [All In](https://www.allinpodcast.co), [TrainerRoad](https://www.trainerroad.com/podcast), and [Rich Roll](https://www.richroll.com/).
-- I recently took the Clifton Strengths assessment If you are curious you can learn more [here](https://gitlab.com/gitlab-org/growth/product/issues/797).
 - Lastly, for more than a decade now I've lived a sober life and I'm very open about it, I won't lead with it but if you want to talk don't hesitate to reach out 📣
 
 ## How I work
